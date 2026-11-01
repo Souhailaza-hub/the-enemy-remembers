@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+best_run.json
+.idea/
+.vscode/
+.env
+.env.*
+.DS_Store
+Thumbs.db
